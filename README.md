@@ -2,4 +2,4 @@
 
 Desenvolvida durante aula de Programação Orientada a Objeto
 
-Professor: https://github.com/gerson-pn
+Base de todo desenvolvimento by https://github.com/gerson-pn
